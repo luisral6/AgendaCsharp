@@ -34,7 +34,7 @@
 - Visual Studio Code: A text editor similar to Atom or SublimeText. It runs on Windows, OSX and Linux.
 
 ## What type of applications the framework is best suited for?
-
+Best suited for applications expecting lots of traffic. In an organization that is willing to use windows in all the aspects of the development and execution.
 
 ## GIFs
 ### Create
