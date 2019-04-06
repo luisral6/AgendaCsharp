@@ -20,6 +20,10 @@
 
 ## Most popular IDEs
 
+- Microsoft Visual Studio: Only available on Windows, Visual Studio is a full IDE primarly inteded for .NET development. It also supports languages such as C# and F#.
+
+- Visual Studio Code: A text editor similar to Atom or SublimeText. It runs on Windows, OSX and Linux.
+
 ## What type of applications the framework is best suited for?
 
 ## GIFs
